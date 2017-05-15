@@ -1,0 +1,17 @@
+--name       "Myou Engine"
+--readme     Introduction.md
+--title      "Myou Engine Documentation"
+--private
+--quiet
+--extension  coffee
+--output     ./doc
+../myou-engine/engine/
+-
+./Introduction.md
+./Getting started.md
+./Tutorials/Start up.md
+./Tutorials/Moving things around.md
+./Tutorials/Key input.md
+./Tutorials/Using a Blender mesh.md
+./Advanced tutorials/Creating a mesh from code.md
+../myou-engine/engine/CHANGELOG.md

@@ -1,0 +1,23 @@
+{
+  "name": "myou-engine-doc",
+  "version": "0.0.1",
+  "description": "Documentation for Myou engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/codo/bin/codo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myou-engine/myou-engine-doc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myou-engine/myou-engine-doc/issues"
+  },
+  "homepage": "https://github.com/myou-engine/myou-engine-doc#readme",
+  "dependencies": {
+    "codo": "^2.1.2"
+  }
+}
