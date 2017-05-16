@@ -4,6 +4,7 @@
 --private
 --quiet
 --extension  coffee
+--theme      myou
 --output     ./doc
 ../myou-engine/engine/
 -

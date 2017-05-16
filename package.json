@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/myou-engine/myou-engine-doc#readme",
   "dependencies": {
-    "codo": "^2.1.2"
+    "codo": "^2.1.2",
+    "codo-theme-myou": "~0.0.1"
   }
 }
