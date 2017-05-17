@@ -2,11 +2,15 @@
 --readme     Introduction.md
 --title      "Myou Engine Documentation"
 --private
---quiet
 --extension  coffee
 --theme      myou
 --output     ./doc
-../myou-engine/engine/
+../myou-engine/engine/myou.coffee
+../myou-engine/engine/render.coffee
+../myou-engine/engine/gameobject.coffee
+../myou-engine/engine/mesh.coffee
+../myou-engine/engine/viewport.coffee
+../myou-engine/engine/framebuffer.coffee
 -
 ./Introduction.md
 ./Getting started.md
@@ -15,4 +19,4 @@
 ./Tutorials/Key input.md
 ./Tutorials/Using a Blender mesh.md
 ./Advanced tutorials/Creating a mesh from code.md
-../myou-engine/engine/CHANGELOG.md
+../myou-engine/CHANGELOG.md
